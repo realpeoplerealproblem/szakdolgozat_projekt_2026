@@ -1,10 +1,5 @@
 .venv/
 .git/
 .idea/
-.claude/
 __pycache__/
-*.py[cod]
-*.egg-info/
-
-# Real credentials — never bake into the image
-config/config.yaml
+*.pyc
