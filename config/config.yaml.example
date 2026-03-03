@@ -1,0 +1,18 @@
+# API keys and configuration
+# Do NOT commit real credentials — fill in locally or use environment variables
+
+twitter:
+  bearer_token: ""
+  api_key: ""
+  api_secret: ""
+  access_token: ""
+  access_token_secret: ""
+
+reddit:
+  client_id: ""
+  client_secret: ""
+  user_agent: "szakdolgozat-scraper/1.0"
+
+selenium:
+  headless: true
+  driver: "chrome"

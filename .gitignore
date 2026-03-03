@@ -28,3 +28,18 @@ Thumbs.db
 # Env files
 .env
 .env.*
+
+# Config with real credentials (use config.yaml.example as template)
+config/config.yaml
+
+# Data, models and output (large files — manage manually or with DVC)
+data/raw/*
+data/processed/*
+data/external/*
+models/*
+output/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+!models/.gitkeep
+!output/.gitkeep
