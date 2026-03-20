@@ -29,6 +29,9 @@ Thumbs.db
 .env
 .env.*
 
+# Claude Code local settings
+.claude/
+
 # Config with real credentials (use config.yaml.example as template)
 config/config.yaml
 
