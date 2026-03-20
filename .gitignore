@@ -43,3 +43,7 @@ output/*
 !data/external/.gitkeep
 !models/.gitkeep
 !output/.gitkeep
+!models/kmeans.pkl
+!models/kmeans_sample.pkl
+!models/label_map.json
+!models/tokenizer/
