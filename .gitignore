@@ -50,3 +50,4 @@ output/*
 !models/kmeans_sample.pkl
 !models/label_map.json
 !models/tokenizer/
+CLAUDE.md
